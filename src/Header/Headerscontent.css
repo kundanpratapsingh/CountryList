@@ -1,0 +1,121 @@
+.Header {
+  width: 100%;
+  height: 50px;
+  background-color: rgb(201, 211, 223);
+  position: fixed;
+  z-index: 999;
+}
+
+.Home {
+  font-size: 20px;
+  font-family: none;
+  /* text-decoration: underline !important; */
+  float: right;
+  margin-right: 2%;
+  margin-top: 0.7rem;
+}
+
+.About {
+  font-size: 20px;
+  font-family: none;
+  /* text-decoration: underline !important; */
+  float: right;
+  padding-right: 2%;
+  margin-top: 0.7rem;
+}
+
+.SignIn {
+  font-size: 20px;
+  font-family: none;
+  /* text-decoration: underline !important; */
+  float: right;
+  padding-right: 2%;
+  margin-top: 0.7rem;
+}
+
+.formcomponent {
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 5%;
+}
+
+.card-img-top {
+  height: 10rem !important;
+}
+
+.card-text {
+  text-align: left;
+  font-weight: 400;
+}
+.country {
+  padding: 3px;
+}
+
+.homecomponent {
+  width: 100%;
+  overflow-x: auto;
+  padding-bottom: 1rem;
+}
+
+/* .homecomponent.img {
+  height: 12rem !important;
+  padding-top: 1.5rem !important;
+} */
+
+/* div.homecomponent::-webkit-scrollbar {
+  background: wheat;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+} */
+
+.SignIntrue {
+  pointer-events: none !important;
+}
+
+.Container {
+  text-align: center;
+  /* margin-top: 5rem; */
+}
+
+.form {
+  display: inline-block;
+  border: 2px solid rgba(0, 204, 255, 0.753);
+  padding: 5rem;
+  margin-top: 6rem;
+}
+
+.Clickbutton {
+  padding-top: 1rem;
+  /* padding-left: 1rem;
+  margin-top: 25rem; */
+}
+
+.Search-country {
+  display: inline-block;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.backgroun-image {
+  margin-top: 4rem;
+}
+
+div .backgroun-image > img {
+  width: 36rem;
+}
+
+.No-data {
+  background-color: salmon;
+  padding: 1rem;
+  margin-top: 1rem;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+a .QQQQQQQQ {
+  display: block;
+  margin-top: 1rem;
+}
